@@ -5,15 +5,19 @@
 <table>
   <tbody>
     <tr>
-      <td align="center"><strong>Full Name</strong></td>
+      <td align="center"><strong>Information</strong></td>
+      <td align="center">Details
+    </tr>
+    <tr>
+      <td align="left"><strong>Full Name</strong></td>
       <td align="left">Uchi, Mao Sophie S.
     </tr>
     <tr>
-      <td align="center"><strong>Course Code/Section</strong></td>
+      <td align="left"><strong>Course Code/Section</strong></td>
       <td align="left">CPE010 - CPE21S4</td>
     </tr>
     <tr>
-      <td align="center"><strong>Instructor</strong></td>
+      <td align="left"><strong>Instructor</strong></td>
       <td align="left">Engr. Jimlord M. Quejado</td>
     </tr>
   </tbody>
